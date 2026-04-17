@@ -1,0 +1,992 @@
+File: 0d700ca5f6cc093de4abba9410480ee7a8870d5e8fe86c9ce103eec3872f225f.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 401576 bytes
+File name: 0d700ca5f6cc093de4abba9410480ee7a8870d5e8fe86c9ce103eec3872f225f.zip
+View report: https://www.virustotal.com/gui/file/eca1051a52e0795148ba98fa0dfbb0a69306b9792d77aa07ad8c41921e6eee04
+----------------------------------------
+File: 2os0wm05.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 1000122 bytes
+File name: 2os0wm05.zip
+View report: https://www.virustotal.com/gui/file/4901a0ffd39ccf776b78aa705885056a368eb2a9988c5a7493ddbd5f2b5a0b19
+----------------------------------------
+File: 4bb997d7f0f3ff1b402bd364782af6ca764e79705fbb6de3398b3a1c88cdcfee.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 142170 bytes
+File name: 4bb997d7f0f3ff1b402bd364782af6ca764e79705fbb6de3398b3a1c88cdcfee.zip
+View report: https://www.virustotal.com/gui/file/6cf124a8ff5626abf50f1464ad6b84d1fe66d6c2a127d51ba41593f1500b3f7f
+----------------------------------------
+File: 7ccdiu5q.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 9000124 bytes
+File name: 7ccdiu5q.zip
+View report: https://www.virustotal.com/gui/file/875a37b8116a20c4a0a60d9cc4d2856057b0b42cc6b8fcb18415a6d4260306a4
+----------------------------------------
+File: 4adf636bee48a5fa28250437891c608cb6be32513f55146879c67425d71de3dd.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 191415 bytes
+File name: 4adf636bee48a5fa28250437891c608cb6be32513f55146879c67425d71de3dd.zip
+View report: https://www.virustotal.com/gui/file/bd5994b8bfadf1779d974f472eb6af2550b771adb66c571b8b46104854f04d5c
+----------------------------------------
+File: 0c662d28268514fabc7129fd14d6e3e9d7df29261a861bcf8aab1f318bb8e7d0.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 422912 bytes
+File name: 0c662d28268514fabc7129fd14d6e3e9d7df29261a861bcf8aab1f318bb8e7d0.zip
+View report: https://www.virustotal.com/gui/file/850c15eec53de8f600c20411789583242800741b251f48a48481604e10e6ba0c
+----------------------------------------
+File: 7yqgfa69.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip, long-sleeps, detect-debug-environment
+Type: ZIP
+Size: 9000122 bytes
+File name: 7yqgfa69.zip
+View report: https://www.virustotal.com/gui/file/dc63d5e81b57302d228111c5a097fef8d3a460a3aa5859f1230848699bb9ff44
+----------------------------------------
+File: 5qpeak1m.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: detect-debug-environment, zip, long-sleeps
+Type: ZIP
+Size: 5000122 bytes
+File name: 5qpeak1m.zip
+View report: https://www.virustotal.com/gui/file/bda72be293d3cc147cce025391aca4645b79acb32d47929f55cac8dcffea9117
+----------------------------------------
+File: 0b5b31af5956158bfbd14f6cbf4f1bca23c5d16a40dbf3758f3289146c565f43.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 401571 bytes
+File name: 0b5b31af5956158bfbd14f6cbf4f1bca23c5d16a40dbf3758f3289146c565f43.zip
+View report: https://www.virustotal.com/gui/file/f5df2c5b28e80d99abc0743ce715f9a99cb13a12be759cc2d61b44a34d7f173e
+----------------------------------------
+File: 2e62a782c84149953dd216d96fec8e0f4d4b568525bbaa0574b1aad2530d28e0.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 325519 bytes
+File name: 2e62a782c84149953dd216d96fec8e0f4d4b568525bbaa0574b1aad2530d28e0.zip
+View report: https://www.virustotal.com/gui/file/faa53344a3b4ed0f17da8d156a60cb6ad9b6fe0fc580645822eea6418d1057cb
+----------------------------------------
+File: 1mmo3l3x.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 500122 bytes
+File name: 1mmo3l3x.zip
+View report: https://www.virustotal.com/gui/file/aebc5b836f8086c636f9fcc7a5cffad1ba314e633ea70efb48c05b9af457af4d
+----------------------------------------
+File: 9i4ttrgd.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: detect-debug-environment, long-sleeps, zip
+Type: ZIP
+Size: 500122 bytes
+File name: 9i4ttrgd.zip
+View report: https://www.virustotal.com/gui/file/59fc185c2eb16a34dcd21e70baea5264a50524833aa2e9bcbe2e6466b6fe873b
+----------------------------------------
+File: 1cba58f73221b5bb7930bfeab0106ae5415e70f49a595727022dcf6fda1126e9.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 1672647 bytes
+File name: 1cba58f73221b5bb7930bfeab0106ae5415e70f49a595727022dcf6fda1126e9.zip
+View report: https://www.virustotal.com/gui/file/927ad13847595ec7ec22960fe27379d28856678dd07591ef8ce5a276c39b0ad6
+----------------------------------------
+File: 4cd313662dab4c93a7e0b4f19d66e92d8263f17265832b95da52468b60be7075.zip
+Malicious: 2 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 42266 bytes
+File name: 4cd313662dab4c93a7e0b4f19d66e92d8263f17265832b95da52468b60be7075.zip
+View report: https://www.virustotal.com/gui/file/b2022880cb161ad1aa88a755ee843f0d3dbe858653aec72efcba821b6f778223
+----------------------------------------
+File: 5hfozemw.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 5000122 bytes
+File name: 5hfozemw.zip
+View report: https://www.virustotal.com/gui/file/a2e6f69832c1407d1014dc1e86cec76386dc5de52955db74a402bf1aec4417e6
+----------------------------------------
+File: scan_files.py
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 2294 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/1e1fe600115b0abf75f9e8f63bfc31a392d5f1678cd563d0367e91b3f90cfbcf
+----------------------------------------
+File: 1f8d8b9ec669ff3112e091db6fa2b163fc53aa9f8ddb03bd3042c017d1397a28.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 486793 bytes
+File name: 1f8d8b9ec669ff3112e091db6fa2b163fc53aa9f8ddb03bd3042c017d1397a28.zip
+View report: https://www.virustotal.com/gui/file/c9eeaaf65f0899e8e9375de75a2a3e23ae30f2ac7890274bb4cdca58f15ade9d
+----------------------------------------
+File: 2thkwlt3.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 500122 bytes
+File name: 2thkwlt3.zip
+View report: https://www.virustotal.com/gui/file/bc7390de939b971a8fdb888f2eca0b3e7fb155cfb06f46fa4d28d60843159cc4
+----------------------------------------
+File: 05jikskn.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 500122 bytes
+File name: 05jikskn.zip
+View report: https://www.virustotal.com/gui/file/fbacc80b2ece3192431ef70aecf31bf68e086e122daad7b39e0e2e8be5f13a37
+----------------------------------------
+File: 01f1e82d4c2b04a4652348fb18bb480396db2229c4fd22d2be1ea58e6bf4a570.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 220229 bytes
+File name: 01f1e82d4c2b04a4652348fb18bb480396db2229c4fd22d2be1ea58e6bf4a570.zip
+View report: https://www.virustotal.com/gui/file/a5a0b2a3b9ced16d110d81a0e8f38ece90eb6d8b997083b2641740b7b5c23001
+----------------------------------------
+File: 0bloatg8.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 5000122 bytes
+File name: 0bloatg8.zip
+View report: https://www.virustotal.com/gui/file/efb17d0be75cb7dd705c4b05438617157b23d89385563f541994606373b40ee7
+----------------------------------------
+File: 3e19d1653c08206c55e1f835bd890b067b652b99a7b38bad4d78ad7490c6a0f8.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 317776 bytes
+File name: 3e19d1653c08206c55e1f835bd890b067b652b99a7b38bad4d78ad7490c6a0f8.zip
+View report: https://www.virustotal.com/gui/file/5077237a13687bc2b49075bfdfa5b856d436d27555f1ef3f4c488da0020334f1
+----------------------------------------
+File: 1c9e06d6bdf8d307a8860e5b47f8c4ec8ebd9e37e6b519c5a72b16db8dad2ade.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 3252575 bytes
+File name: 1c9e06d6bdf8d307a8860e5b47f8c4ec8ebd9e37e6b519c5a72b16db8dad2ade.zip
+View report: https://www.virustotal.com/gui/file/32e37b0f6c030ad82165d54d9739d778f1a89c43e8c0d3378ccec384979987b8
+----------------------------------------
+File: 3kjttb7w.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 9000122 bytes
+File name: 3kjttb7w.zip
+View report: https://www.virustotal.com/gui/file/3f68adc7ccde59125c05fcb0c444d50bc0eb4b60ab1d3f42123228319acaa883
+----------------------------------------
+File: 0df446a893ef448ee4ef32494f6cdf9b04a4f202583794f75a7a7a9ec25d41cb.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 401576 bytes
+File name: 0df446a893ef448ee4ef32494f6cdf9b04a4f202583794f75a7a7a9ec25d41cb.zip
+View report: https://www.virustotal.com/gui/file/c99ed6bb96948ccb3d747a0a84e97dc45219cc6602e80192027110be06e848d4
+----------------------------------------
+File: 00fd368983e0825b36e03a014e1bd5f622fb880bf17082f89785b829fe2d0d80.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 422823 bytes
+File name: 00fd368983e0825b36e03a014e1bd5f622fb880bf17082f89785b829fe2d0d80.zip
+View report: https://www.virustotal.com/gui/file/8fd721248557c09babaf3d0099d7a246f5596658d3e271effffa077702c9f4d8
+----------------------------------------
+File: 4afda03ddeb1c62a1f87765ea383f920621134c3f6362959cb9993c24752fcb0.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 425736 bytes
+File name: 4afda03ddeb1c62a1f87765ea383f920621134c3f6362959cb9993c24752fcb0.zip
+View report: https://www.virustotal.com/gui/file/5eb224a02a147d0ab9f87353bf774e9187b166080f371d7607adb64124470c10
+----------------------------------------
+File: 3da380b7816c9f1c3fbf9d63aeeb02cd939ca68d3062b0f35b660b7b75b81028.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 425597 bytes
+File name: 3da380b7816c9f1c3fbf9d63aeeb02cd939ca68d3062b0f35b660b7b75b81028.zip
+View report: https://www.virustotal.com/gui/file/301d2bab5201a233305a5f24a457d7e483719830fe79b799f9c3852606ef4723
+----------------------------------------
+File: 0c8d5f2b94ca60616d0db69f31cf4a651ae816e44ef6f807851601c1a4e52d10.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 401573 bytes
+File name: 0c8d5f2b94ca60616d0db69f31cf4a651ae816e44ef6f807851601c1a4e52d10.zip
+View report: https://www.virustotal.com/gui/file/40392dc71ed834f6a851233b80df24add08512ab9add1afa6bdf58979a590490
+----------------------------------------
+File: 4b2edadc8f90e9fcc976f02a9eda1640cd92c07718c0271842fbd4ca7e2906e2.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 8267 bytes
+File name: 4b2edadc8f90e9fcc976f02a9eda1640cd92c07718c0271842fbd4ca7e2906e2.zip
+View report: https://www.virustotal.com/gui/file/44b2331784fc282c11c79d9f225aa24afe6d596cbe1d7bc74f46f6aca8fc6385
+----------------------------------------
+File: 0k9mf9gc.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, detect-debug-environment, long-sleeps
+Type: ZIP
+Size: 1000122 bytes
+File name: 0k9mf9gc.zip
+View report: https://www.virustotal.com/gui/file/a0be54f940e74c559c7825f89efd710cc6a16464a01210645cf9c3f92643192c
+----------------------------------------
+File: 0r316gh1.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 5000122 bytes
+File name: 0r316gh1.zip
+View report: https://www.virustotal.com/gui/file/0c4fc67f55bc9a8481003c91af3088bf6fe302ca207fe96d54ecb1220cb022cf
+----------------------------------------
+File: 04e768174636f0a5be42e9cee5974a8b9db2832d4e79cc973ad617185ab80595.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 45822 bytes
+File name: 04e768174636f0a5be42e9cee5974a8b9db2832d4e79cc973ad617185ab80595.zip
+View report: https://www.virustotal.com/gui/file/be7980ced7183a7269c4c6c453d767766e8c9a88462e03aa31dff3cf89004250
+----------------------------------------
+File: 6omt662t.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 5000122 bytes
+File name: 6omt662t.zip
+View report: https://www.virustotal.com/gui/file/f2bf2ce4ad79f6540bf09133c0ee688bbed13bfb08690bece26f4d653bca794e
+----------------------------------------
+File: scan_results.csv
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 3423 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/033c092a0c2d3135deed1da3cf80ae96eae279133f1669b0439fc981762f67da
+----------------------------------------
+File: 8esw0qe5.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 500124 bytes
+File name: 8esw0qe5.zip
+View report: https://www.virustotal.com/gui/file/c2c41aae44d08c3f11ad61178c876fce068c7fb4cb7b9545c1a17af2785f0736
+----------------------------------------
+File: 5hz9kz8m.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 500122 bytes
+File name: 5hz9kz8m.zip
+View report: https://www.virustotal.com/gui/file/60275f3c66955faed0bf260d660eefea230f078c44d2dd8ce61de532d7f9c1bc
+----------------------------------------
+File: 9qvywmev.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 500122 bytes
+File name: 9qvywmev.zip
+View report: https://www.virustotal.com/gui/file/5a9c99852a15be0c1de1508874fd1fdaeb28d1fd0f86d29e20c36d1c7a7ce5da
+----------------------------------------
+File: 16apc06l.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 9000122 bytes
+File name: 16apc06l.zip
+View report: https://www.virustotal.com/gui/file/0024ad7320f2f05a9c29f9fc87f74e0e35db72c936ddae703c3a2a3ac5c4c34d
+----------------------------------------
+File: 4aea0dad84263022b05d0da70ca3e50f9bc4375ffdd5fb1cb17e91446ac0da10.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 621053 bytes
+File name: 4aea0dad84263022b05d0da70ca3e50f9bc4375ffdd5fb1cb17e91446ac0da10.zip
+View report: https://www.virustotal.com/gui/file/ac5c9db4d3a98e54365543abfa8cbbc7a3f0ac4827a5ed1e6012d8a14cb2d033
+----------------------------------------
+File: 9ivvz9ri.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: long-sleeps, zip, detect-debug-environment
+Type: ZIP
+Size: 5000122 bytes
+File name: 9ivvz9ri.zip
+View report: https://www.virustotal.com/gui/file/d2d4c10beb9b9567b910edcfc51d3f0278e2ba4c0638efb9328be5b35bfb63fe
+----------------------------------------
+File: 2ff281852735d5032d8ae083b2fe43e821a4f080a6766f722f36444251bf0aa7.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 191415 bytes
+File name: 2ff281852735d5032d8ae083b2fe43e821a4f080a6766f722f36444251bf0aa7.zip
+View report: https://www.virustotal.com/gui/file/8b0d1e822aeab3a91306b1be87162deb030243783c9446bbb52d3ba8fe620e22
+----------------------------------------
+File: 1ea49714b2ff515922e3b606da7a9f01732b207a877bcdd1908f733eb3c98af3.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 2789203 bytes
+File name: 1ea49714b2ff515922e3b606da7a9f01732b207a877bcdd1908f733eb3c98af3.zip
+View report: https://www.virustotal.com/gui/file/72dbf9c16c6ea51cb37df1e03c1266e05dbfc55e2f332c83efeed8d7be454fa3
+----------------------------------------
+File: 8zaoeq98.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 9000122 bytes
+File name: 8zaoeq98.zip
+View report: https://www.virustotal.com/gui/file/52ecdd72887b9e2680209168c84b9caefdd73ee7e8bab7a7c9c03afcab6d63f3
+----------------------------------------
+File: 4a0e7565db16ed833a083bc9927f032be5e6918eed712982cd76e87e99510778.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 318200 bytes
+File name: 4a0e7565db16ed833a083bc9927f032be5e6918eed712982cd76e87e99510778.zip
+View report: https://www.virustotal.com/gui/file/2b0df6779bafdb6d68cd378f309483b4c597884e65eda44f97acb47c13ab34b4
+----------------------------------------
+File: 4j73wf3b.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 9000122 bytes
+File name: 4j73wf3b.zip
+View report: https://www.virustotal.com/gui/file/37d17c0bcea579f5ff51d1ac5ef998641ca099ce18b18864965e6c31983788b0
+----------------------------------------
+File: 1b6af2fbbc636180dd7bae825486ccc45e42aefbb304d5f83fafca4d637c13cc.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 272818 bytes
+File name: 1b6af2fbbc636180dd7bae825486ccc45e42aefbb304d5f83fafca4d637c13cc.zip
+View report: https://www.virustotal.com/gui/file/d1a471ef554929c744bd8ea843d823d5ca2547434bd83642000206df788f91fb
+----------------------------------------
+File: 2d931f6867e7049b450c8ab36e1f8e6a51f0ee95fc2253d0759e3e3b118fe1d1.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 422916 bytes
+File name: 2d931f6867e7049b450c8ab36e1f8e6a51f0ee95fc2253d0759e3e3b118fe1d1.zip
+View report: https://www.virustotal.com/gui/file/6af41885aa47412386441e69139209a8e5c70875d85ca0dc5e4f8d244bfe2b6b
+----------------------------------------
+File: 9ylqs3ag.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 1000122 bytes
+File name: 9ylqs3ag.zip
+View report: https://www.virustotal.com/gui/file/2c2cc644261f132ece0ae02f894f58bcf134863bbec4435ba7cb340be9cca9d3
+----------------------------------------
+File: 5qbg68d1.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, detect-debug-environment, long-sleeps
+Type: ZIP
+Size: 500122 bytes
+File name: 5qbg68d1.zip
+View report: https://www.virustotal.com/gui/file/511f3a348c705f2a1a8b23c9e3ff516f01e7e2578352264eb63e82e02b674a3f
+----------------------------------------
+File: 1f7675ec795ad551a15fc45a8f4b8b0a948d7004dc703f46e20f3a8b763e462f.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 14401076 bytes
+File name: 1f7675ec795ad551a15fc45a8f4b8b0a948d7004dc703f46e20f3a8b763e462f.zip
+View report: https://www.virustotal.com/gui/file/f6d74ad6e35ca20c0ebeefc857b5088d9aec85b4685c4fda542d8689b0dc62aa
+----------------------------------------
+File: 5odekf26.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 2000122 bytes
+File name: 5odekf26.zip
+View report: https://www.virustotal.com/gui/file/82276a69798c754288ca4624d1ba1f0ca292195f58a23ecc97e3aee3cadbd72f
+----------------------------------------
+File: 016xtwq0.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 1000122 bytes
+File name: 016xtwq0.zip
+View report: https://www.virustotal.com/gui/file/20a6f266876d8f77419251ebebbfb7e2c32387e46622a80cc76a8a74a86bd4bf
+----------------------------------------
+File: 7mv2sbvk.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 1000122 bytes
+File name: 7mv2sbvk.zip
+View report: https://www.virustotal.com/gui/file/0931004cfbf13ff880da1b1f75e2174c8652a2807b20f7f23cadb9a9b2805ecb
+----------------------------------------
+File: 7fst5ci1.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 2000124 bytes
+File name: 7fst5ci1.zip
+View report: https://www.virustotal.com/gui/file/10cfa048450c5a7c4d3c914834dabf5592ca58339f15bf38cc2eee3669e40350
+----------------------------------------
+File: 4mup95eu.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 9000122 bytes
+File name: 4mup95eu.zip
+View report: https://www.virustotal.com/gui/file/d51bf65ffedfe918b490f8c03c78fdce11af0f9ccc30c9ca931f007858214c86
+----------------------------------------
+File: 8h8wdsrz.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 5000122 bytes
+File name: 8h8wdsrz.zip
+View report: https://www.virustotal.com/gui/file/d1ec39975089d0b36aa805c2b7bb8f13305352542e7e1de090949665d07c1d4b
+----------------------------------------
+File: 2koy3iln.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 500122 bytes
+File name: 2koy3iln.zip
+View report: https://www.virustotal.com/gui/file/5195c6b69b32a71affa101dcfb8dca4f649bc1d50ca5f8c7ee8a0014491bed6a
+----------------------------------------
+File: 3e68e5742f998c5ba34c2130b2d89ca2a6c048feb6474bc81ff000e1eaed044e.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 92110 bytes
+File name: 3e68e5742f998c5ba34c2130b2d89ca2a6c048feb6474bc81ff000e1eaed044e.zip
+View report: https://www.virustotal.com/gui/file/0c2ea0319295ec676c94533401a828b2b149abe0de986f7fb7c9bb7d47658f34
+----------------------------------------
+File: 6hej5s6x.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 1000124 bytes
+File name: 6hej5s6x.zip
+View report: https://www.virustotal.com/gui/file/a2b4326347e362f1cec5ecc0f2a1a7ffd1e85a81a477932f850b7abe13019629
+----------------------------------------
+File: 6rcz7v5t.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 500122 bytes
+File name: 6rcz7v5t.zip
+View report: https://www.virustotal.com/gui/file/de5da9d935f2ac719b2064c888bb85df59227f38fde6cf3cc7d6667e32624d83
+----------------------------------------
+File: 1kz7jzeq.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip, detect-debug-environment, long-sleeps
+Type: ZIP
+Size: 5000122 bytes
+File name: 1kz7jzeq.zip
+View report: https://www.virustotal.com/gui/file/f96848b7e1328e7441596dcb7244f2156cc11d7f9109aa4c2e8f96fd549b6ac3
+----------------------------------------
+File: 0aq6ty2y.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 9000122 bytes
+File name: 0aq6ty2y.zip
+View report: https://www.virustotal.com/gui/file/cbdf13d51375e650b5dcf16b53935cde2eef32b28dad6d7b1cfa6744bc8df0d8
+----------------------------------------
+File: 0bfe25de8c46834e9a7c216f99057d855e272eafafdfef98a6012cecbbdcfabf.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 346540 bytes
+File name: 0bfe25de8c46834e9a7c216f99057d855e272eafafdfef98a6012cecbbdcfabf.zip
+View report: https://www.virustotal.com/gui/file/bed7d9ed22e44cca580e4e247b81a1ec9cccdd9759e684b4342f1cf7f3b5b2ad
+----------------------------------------
+File: 1ccf8baf11427fae273ffed587b41c857fa2d8f3d3c6c0ddaa1fe4835f665eba.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 220228 bytes
+File name: 1ccf8baf11427fae273ffed587b41c857fa2d8f3d3c6c0ddaa1fe4835f665eba.zip
+View report: https://www.virustotal.com/gui/file/b31e7ff173ce1ff0bda5b79f61bbff9f6d34f8018e1467c59e62a78425657424
+----------------------------------------
+File: 3ad343a324037250af9aa7409e211d754adb6524c8d443e1f4afcf38e6df092c.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 301155 bytes
+File name: 3ad343a324037250af9aa7409e211d754adb6524c8d443e1f4afcf38e6df092c.zip
+View report: https://www.virustotal.com/gui/file/45e7209b53292ba0b6f127dd52f634d818cb1d929d2f5f54c24c94a40f7c659d
+----------------------------------------
+File: 8q30iyp1.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 2000122 bytes
+File name: 8q30iyp1.zip
+View report: https://www.virustotal.com/gui/file/239b20b6b3a27005d766218ed2fac8eed33dc9200831275007b4c8008d5f55f9
+----------------------------------------
+File: 4uwukw0c.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 5000124 bytes
+File name: 4uwukw0c.zip
+View report: https://www.virustotal.com/gui/file/5a793fb9e1a308a43a156a1e2c546c28bbaf51c8dffd9ad08c247b7268993aa6
+----------------------------------------
+File: 1bad2b6e8ab16c5a692b2d05f68f7924a73a5818ddf3a9678ca8caab3568a78e.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 318785 bytes
+File name: 1bad2b6e8ab16c5a692b2d05f68f7924a73a5818ddf3a9678ca8caab3568a78e.zip
+View report: https://www.virustotal.com/gui/file/8c86cbaceeec96108bce55bad192b65529ba27d37215e9aa943f4df15557055d
+----------------------------------------
+File: 5n2iclb7.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 5000122 bytes
+File name: 5n2iclb7.zip
+View report: https://www.virustotal.com/gui/file/b2215c57c4e0c4b79ad49bdb94d05ae57d64f65f06c4880ce7e85fb15db8208f
+----------------------------------------
+File: 8ey84a1x.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 9000122 bytes
+File name: 8ey84a1x.zip
+View report: https://www.virustotal.com/gui/file/acecfba4b71edcbf711e5210b8fd25e6a6966f25ff3bb055de9e21334f69307e
+----------------------------------------
+File: 4f62e909c14af137dc07d4b990c53bb28fa7c5344966b7b18f157eb235d0d796.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 3127051 bytes
+File name: 4f62e909c14af137dc07d4b990c53bb28fa7c5344966b7b18f157eb235d0d796.zip
+View report: https://www.virustotal.com/gui/file/154abacdc90449c4cba6da79d84655626425b107fef4c7c581753a59ad04eaf3
+----------------------------------------
+File: 0ff90e51f04083e8bb34bb7a414a9b28a5e0264e152ac086e64b548e5a771956.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: text
+Type: Text
+Size: 18 bytes
+File name: 0ff90e51f04083e8bb34bb7a414a9b28a5e0264e152ac086e64b548e5a771956.zip
+View report: https://www.virustotal.com/gui/file/ebcca22ad40a0af49da20c18796cc1dbbc9a572c4554da67cc148e3a830968ea
+----------------------------------------
+File: 9kpyh5tn.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 5000122 bytes
+File name: 9kpyh5tn.zip
+View report: https://www.virustotal.com/gui/file/6db5b3974c90dffff5f8e79f1fb5776ad2ce3dd5a6ea77349416de9cc64af88d
+----------------------------------------
+File: 1tykuv6z.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 9000122 bytes
+File name: 1tykuv6z.zip
+View report: https://www.virustotal.com/gui/file/3be7cea4bc3cb0c9fe71cf946a0407935a0e8f853d48b4cb647ffb9968a814ab
+----------------------------------------
+File: 4b3312a6e5be6e3afbae4ee89a7a50a27e2489678b7d66824ce7a83b3592f43c.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 3244648 bytes
+File name: 4b3312a6e5be6e3afbae4ee89a7a50a27e2489678b7d66824ce7a83b3592f43c.zip
+View report: https://www.virustotal.com/gui/file/bceb40dc0c3b4cce9619bd7491f9f0370f070839d310a05a102b2bf1ae7431e4
+----------------------------------------
+File: 4bd1b23b5554f039306b7a36094daae65bb8ab2a92a930ad00938d5b94ad0144.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 142170 bytes
+File name: 4bd1b23b5554f039306b7a36094daae65bb8ab2a92a930ad00938d5b94ad0144.zip
+View report: https://www.virustotal.com/gui/file/57427e775e223fea3ad7f0af9107118c4ab4b65ffdddbf3f801c4a24588588fb
+----------------------------------------
+File: 4a97599ff5823166112d9221d0e824af7896f6ca40cd3948ec129533787a3ea9.zip
+Malicious: 2 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 889070 bytes
+File name: 4a97599ff5823166112d9221d0e824af7896f6ca40cd3948ec129533787a3ea9.zip
+View report: https://www.virustotal.com/gui/file/cfbaa202a4c9bb35ff092fbfd4db3e89e7cd56a1daa19b5ba52e807964fe6c81
+----------------------------------------
+File: 4d5ecf3d1955458195771630f03f6ef42f5f62e66ed8e0681f8311d25aecc2bb.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 291210 bytes
+File name: 4d5ecf3d1955458195771630f03f6ef42f5f62e66ed8e0681f8311d25aecc2bb.zip
+View report: https://www.virustotal.com/gui/file/0b74bf01d7d5947143e00d8340660b5f5f3c26be6f1e8a9559bfb4882920cbc3
+----------------------------------------
+File: 4ipaf8ii.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 5000122 bytes
+File name: 4ipaf8ii.zip
+View report: https://www.virustotal.com/gui/file/7cdcc4a7c34dbe2c9638d0dcba07dc077b332fc21d42957f80032f24aa833b14
+----------------------------------------
+File: 2ka5sp9i.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 5000122 bytes
+File name: 2ka5sp9i.zip
+View report: https://www.virustotal.com/gui/file/1f614b0658a1548699f63c7da0d0b7a98c800482d3dfca57c75ebde29a7a73f2
+----------------------------------------
+File: 8yizqfp7.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, detect-debug-environment, long-sleeps
+Type: ZIP
+Size: 1000122 bytes
+File name: 8yizqfp7.zip
+View report: https://www.virustotal.com/gui/file/d43d69ce8e2b04727abe512811c67c9f88a500b71b24dceaf63cd96d4af56906
+----------------------------------------
+File: 4nh3h3g1.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 1000124 bytes
+File name: 4nh3h3g1.zip
+View report: https://www.virustotal.com/gui/file/1abbe57a3650641ae0c5640d0f00a6e0c0b6a708772adb37dddf0c2b14b271af
+----------------------------------------
+File: 10zjknj3.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: detect-debug-environment, long-sleeps, zip
+Type: ZIP
+Size: 2000122 bytes
+File name: 10zjknj3.zip
+View report: https://www.virustotal.com/gui/file/c168ce117fa5fee0f73a5e27aece02f5bcf9ff9e4f43136ed2ec7eed4205999c
+----------------------------------------
+File: 8jz232s4.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 500122 bytes
+File name: 8jz232s4.zip
+View report: https://www.virustotal.com/gui/file/37d12e3d6d27d6abd2b153382552c97c0fc5d33bc7bbbc1add5eb9d0d6e7a859
+----------------------------------------
+File: 3e3fad9888856ce195c9c239ad014074f687ba288c78ef26660be93ddd97289e.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 345857 bytes
+File name: 3e3fad9888856ce195c9c239ad014074f687ba288c78ef26660be93ddd97289e.zip
+View report: https://www.virustotal.com/gui/file/b8043e9c3fc95ec589a6fa37758cb2ed12604e9c6ec0010ae737f5eb81804ab4
+----------------------------------------
+File: 8plpxywm.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 2000122 bytes
+File name: 8plpxywm.zip
+View report: https://www.virustotal.com/gui/file/1ccc2bc7f79e34c9c13b9395c022ef341d2e180521c1c292cea5a45c7e022361
+----------------------------------------
+File: 2f45a3079b5949b6dfb356f79c30ba333635f1eab27704232a7eb70dc428e4ee.zip
+Malicious: 2 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 875344 bytes
+File name: 2f45a3079b5949b6dfb356f79c30ba333635f1eab27704232a7eb70dc428e4ee.zip
+View report: https://www.virustotal.com/gui/file/5c4510fdcf0384b8f00f483bc6c64763d7a9f1b98ee77c5e5fa1e9a3d9278e7f
+----------------------------------------
+File: 3jwhoz44.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 2000122 bytes
+File name: 3jwhoz44.zip
+View report: https://www.virustotal.com/gui/file/62fd4b08b8c4cbcab21d6b161e494ff61bdeac1b8df8b7d58ca7a98c791ad52f
+----------------------------------------
+File: 2e2a74099a9d68ff104ceed747672294321c8a5ffdf67c03504072ff964a65c7.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 58081 bytes
+File name: 2e2a74099a9d68ff104ceed747672294321c8a5ffdf67c03504072ff964a65c7.zip
+View report: https://www.virustotal.com/gui/file/ed0b95f63778726aa2e0debe59bdc1cac55e01acf6be55cd5b47d325457300bc
+----------------------------------------
+File: 9g7b0z3w.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 9000122 bytes
+File name: 9g7b0z3w.zip
+View report: https://www.virustotal.com/gui/file/e0fc7954007bde890c22c9f4867cb01819f2186938c0acfa84e73a3e075bbb76
+----------------------------------------
+File: results.txt
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: attachment, via-tor, known-distributor, direct-cpu-clock-access, legit, trusted, zero-filled, runtime-modules, software-collection, nsrl
+Type: unknown
+Size: 0 bytes
+File name: android-cts-7.1_r6-linux_x86-arm.zip
+View report: https://www.virustotal.com/gui/file/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+----------------------------------------
+File: 08fw1nnm.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 1000122 bytes
+File name: 08fw1nnm.zip
+View report: https://www.virustotal.com/gui/file/4c1690cce0449d51d1aff2ec333cbca73cd3f12bb5daac6854df369466594396
+----------------------------------------
+File: 0ca9ffeab647cff8f90fa77444ac33d68cd7af945d9a9c70232c9999d2b6adae.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: encrypted, zip
+Type: ZIP
+Size: 60051 bytes
+File name: 0ca9ffeab647cff8f90fa77444ac33d68cd7af945d9a9c70232c9999d2b6adae.zip
+View report: https://www.virustotal.com/gui/file/fd55942ab9a717127f8c99bd42b6a410adf97d1b39d9d11fec673d8c5e61a734
+----------------------------------------
+File: 6tc30y5g.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 1000122 bytes
+File name: 6tc30y5g.zip
+View report: https://www.virustotal.com/gui/file/963066bb43a43c3cb1ce0f34a19df2f88790c288f3967699a767affa7765b5cb
+----------------------------------------
+File: 0ff90e51f04083e8bb34bb7a414a9b28a5e0264e152ac086e64b548e5a771956(1).zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: text
+Type: Text
+Size: 18 bytes
+File name: 0ff90e51f04083e8bb34bb7a414a9b28a5e0264e152ac086e64b548e5a771956(1).zip
+View report: https://www.virustotal.com/gui/file/ebcca22ad40a0af49da20c18796cc1dbbc9a572c4554da67cc148e3a830968ea
+----------------------------------------
+File: 4cda6af63873eca99b9a0b69be1c8b9c81b501339f569a30fd30394fa54da3e1.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 1166830 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/933f23d757eb636f28d18a9d5007ef88b8adf91d119219aaa16f11acf3fead09
+----------------------------------------
+File: 1ec34305e593c27bb95d538d45b6a17433e71fa1c1877ce78bf2dbda6839f218.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 422914 bytes
+File name: 1ec34305e593c27bb95d538d45b6a17433e71fa1c1877ce78bf2dbda6839f218.zip
+View report: https://www.virustotal.com/gui/file/235cc79c8386d26ac2d17f9b248be270c2ab969cd73d3daa15779052b83f10cd
+----------------------------------------
+File: 2e726bf4b61c3f9d3a53635520b2a483917483e92f920a2197b028e37c5a44a8.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 60050 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/e2ce623400945a05390c3ebd022507d07a427c87dedc1ac8f6b3eda06ebaf9cd
+----------------------------------------
+File: 3e96709bb940d80b4ffe950fa589fff66fbf84eb752de49f115bc51c28e179f5.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 17863 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/cca79c5c5545e230b744ad49fa2388cfdae57d35a65140c61247a8d903807cad
+----------------------------------------
+File: 9me7ekt1.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 500122 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/507d2d51d6e5e44ebf2a9bfbf1471fb0a9abd3cc3689f18d9b6ed50c7fddc2f9
+----------------------------------------
+File: 4bc3171fe1554b692841f7ba5104d41956fa868c4c20bcce4c1b4fd942fb2082.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 142170 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/bd0ba4861e22168e4b4378daf92f56bf4f8e8a86621bf3a29755a82818b65440
+----------------------------------------
+File: 02b49fd8781580e1f25034c9ca89d7989729f6ca898579f434cc6122247b7c06.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 425603 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/76ff659203a7e693f4792f741da615dc7ac7526ec553478323a3d469acadf700
+----------------------------------------
+File: 6e4pekv8.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 9000122 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/7e4385cc981f1d0efa0fb84e31d4326445e4c58d06c1d8ff18ee43d28c35094f
+----------------------------------------
+File: 3daysog2.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 1000124 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/55314fb62834ea759985721ebc30fcd3e86c545ccdb030ad23b98707156c8d67
+----------------------------------------
+File: 4edc467b3a705e317949e72eb2f76f6fd4c871a0d2d294b5ece41b0e7360aaea.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 142171 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/1a2035cda9fe27b79e27e9909fb5e83e65c99435c84b7a41e3a7011c9c2a9acc
+----------------------------------------
+File: results2.txt
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 32961 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/5632e517f9fd18079ef95b6e44b48776eec5652c3536f7d047aee4ac12a3a390
+----------------------------------------
+File: 2b276cf03c81550515de1ea2804e016887d2f0212818b2b8a5e597b41b484664.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 226446 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/9504bfdacda5fb982e46f6a0a5d72c0e784542e8cb8f083a63504fad385b06ed
+----------------------------------------
+File: 3d6c1fdfc04383ddb9a9028fa7181b017978a0d4f910fdfcb3905ed6b4f33418.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 425597 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/ecb1d3b49a8a9ba49b6dc37d74f3524c35f3f464bad248d46c3f44b4eeb848ab
+----------------------------------------
+File: 3cd8db5fcbba519c9c9332435e8d612b2cef61500dc04875b1bd2931dab2c90b.zip
+Malicious: 1 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 191414 bytes
+File name: 3cd8db5fcbba519c9c9332435e8d612b2cef61500dc04875b1bd2931dab2c90b.zip
+View report: https://www.virustotal.com/gui/file/fb2cd9b1a7aaa7d4638294198e1334ca57e9491c1208dde0fe483a54a9cfed98
+----------------------------------------
+File: 1c70fdf9bfa243c7a8ca09d466faf202b6bbdfb2f4e53852a78884e845cc73a0.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 191415 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/98e1d3e6d3b6552b9410452e58679c8b2c1c0c16027937d61e6a37066b9d85fc
+----------------------------------------
+File: 4e92b73a17e0646876fb9be09c4ee6f015f00273932d2422b69339e22b78b385.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 2461890 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/bfefd970497605c577b5d42deeb4c8324d8258b8b59f5339639e45068f81aba1
+----------------------------------------
+File: 0ab9e88f2135f7fbd439435f0ff4da887bbfb1cae67ccc8209aac22e75e3486f.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 423792 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/f5254adf391ed583698149b84040cd64961cbfbd26f556ec68880de084dd8020
+----------------------------------------
+File: 3d091b32abd008ff392158ff4d7271f72febe6069b4b1b3ccd51a2a733e37327.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip, encrypted
+Type: ZIP
+Size: 317874 bytes
+File name: 3d091b32abd008ff392158ff4d7271f72febe6069b4b1b3ccd51a2a733e37327.zip
+View report: https://www.virustotal.com/gui/file/9c72f275fdd74233cde59cc0d0a8198cefc0a8b8de4fd5fd330330ee019f66ec
+----------------------------------------
+File: 1luk589r.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 1000124 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/e0dbf39ba977c8317bc6ab846bc33062dd74283048e27fb78a6844b4f59a7431
+----------------------------------------
+File: 8c9de6b9.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 9000122 bytes
+File name: 8c9de6b9.zip
+View report: https://www.virustotal.com/gui/file/2820512b50c7106c9c63c8dfbfcb93d5b15249f1f4ec48af2cde78f7adbc19ff
+----------------------------------------
+File: 3n4xx5wz.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 9000122 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/9baffa82cbfd7601a83cfc93114f4d2284866daa8df0958f5b99860fb26f51e3
+----------------------------------------
+File: 0fff8fb05cee8dc4a4f7a8f23fa2d67571f360a3025b6d515f9ef37dfdb4e2ea.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 929626 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/b8016a0eaa3c410e86ac3e02f5e3a142868b3573f236109fb2a7b886bc56a7ae
+----------------------------------------
+File: 6i7fryi0.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 9000122 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/58963617b82941929c7a9132543d7e74ae188f5c4b2fe2624ca43e94f889ef7a
+----------------------------------------
+File: 0ed04a6f924b2757e64940fb909ae1e8b46eb7dcf377985074434a44c38ff64f.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 3067600 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/ecd5c7982a9e89995bdfe42ad17300b8cf1dcec5245e6033ae7f7a59a08c4d31
+----------------------------------------
+File: 4ba7ehxl.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: zip
+Type: ZIP
+Size: 1000124 bytes
+File name: 4ba7ehxl.zip
+View report: https://www.virustotal.com/gui/file/f18ef4faf5723a852e4bfd654d2038eabf1703de13d016472ab96fb4d0200dae
+----------------------------------------
+File: 3c3088afd47537d8504fc27f2bd4a6595a000c504c8725d38cb86d3db8140ca2.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 142168 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/dace9c9150f0a0695ce9a7356285055af3dbc15b5b1266b28590457e4241a92c
+----------------------------------------
+File: 1e52d9f04f99be66d5bc13db767c6acb5f0515906633f76e5c713681af9454df.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 3071001 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/dcc8e740773123bcf587e99befcc12eb094880257e66ca091702cce3f520b12c
+----------------------------------------
+File: 2lef7k96.zip
+Malicious: 0 / Suspicious: 0 / Harmless: 0
+Tags: 
+Type: unknown
+Size: 9000122 bytes
+File name: N/A
+View report: https://www.virustotal.com/gui/file/c728512c7799add7f08b806f1c71426b670d3505781878bace59b7927c562623
+----------------------------------------
